@@ -1,0 +1,9 @@
+Error Code = 1       * No internet connection is avaliable.
+Error Code = 2       * Author of this game has decided to permanently
+            -                          close the game.
+Error Code = 3       * You shouldn't see this. Just restart the game.
+Error Code = 4       * An error appeared while loading ads.
+Error Code = 5       * An updated version of the game has been released.
+            -                          Please download the latest version.
+Error Code = 6       * I don't even know how this happened.
+Error Code = 0           -1
